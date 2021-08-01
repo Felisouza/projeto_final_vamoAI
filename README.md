@@ -46,5 +46,7 @@ Analisamos e tratamos os dados através de Python, utilizando diversas bibliotec
 Veja um pouco mais do nosso tratamento de dados no nosso notebook do [Colab](https://colab.research.google.com/drive/1puk7nNVIzV33xfyL80LWc5yGnp5Xjxwr#scrollTo=HWDsUpvBhs7n) e nosso dashboard no [Tableau Public](https://public.tableau.com/app/profile/natalia.de.oliveira.gomes/viz/storytelling_16276155358600/Victor)
 
 <p align="center">
-<img src = "https://j.gifs.com/jYYvRl.gif" width=800px>
+<img src = "https://j.gifs.com/jYYvRl.gif" width=
+
+800px>
 </p>
